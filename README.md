@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100 px" width=100% src="https://github.com/Jerry-C.-C.-Dores/Jerry-C.-C.-Dores/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">A disposição da empresa, sorry.</p>&nbsp;
+<p align="center">A disposição da empresa, thank.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100 px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Jerry-C.-C.-Dores&theme=radical&mode=weekly" />
